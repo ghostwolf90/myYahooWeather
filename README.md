@@ -1,5 +1,5 @@
 # myYahooWeather
-![screenshot](https://github.com/ghostwolf90/myYahooWeather/blob/master/image/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-01-19%2018.53.30.png)
+![screenshot](https://github.com/ghostwolf90/myYahooWeather/blob/master/image/yahooWeather_2.png)
 
 ##功能說明：
 #####1.擷取Yahoo Weather JSON 的台中天氣資料
