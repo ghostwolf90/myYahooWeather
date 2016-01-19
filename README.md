@@ -7,8 +7,8 @@
 #####3.可以刪除TableView欄位
 
 ##參考資料：
-#####1. https://github.com/hsiaoplay/YahooWeather
-#####2. https://github.com/jianyaoang/Yahoo-Weather-Replica
+#####1. hsiaoplay的GitHub https://github.com/hsiaoplay/YahooWeather
+#####2. jianyaoang的GitHub https://github.com/jianyaoang/Yahoo-Weather-Replica
 
 ## 使用技術部份
 * [擷取JSON（get JSON）](#get JSON)
