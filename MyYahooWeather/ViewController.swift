@@ -42,7 +42,6 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
     override func viewDidLoad() {
         super.viewDidLoad()
         YahooWeather(url)
-        //configureWeatherTableView()
     }
 
     override func didReceiveMemoryWarning() {
@@ -50,18 +49,7 @@ class ViewController: UIViewController,UITableViewDelegate, UITableViewDataSourc
         // Dispose of any resources that can be recreated.
     }
     
-    func configureWeatherTableView() {
-        tableView.backgroundColor = UIColor.clearColor()
-        tableView.tableHeaderView?.backgroundColor = UIColor.clearColor()
-        
-        //tableView = self.tableView.tableHeaderView
-        var rect: CGRect = tableView.frame
-        rect.size.height = self.view.frame.size.height
-        tableView.tableHeaderView?.frame = rect
-        tableView.tableHeaderView = nil
-        tableView.tableHeaderView = tableView
-    }
-    
+    //設定tableView高度
     func tableView(tableView: UITableView, heightForRowAtIndexPath indexPath: NSIndexPath) -> CGFloat {
         if indexPath.row == 0 {
             return 110
