@@ -1,12 +1,14 @@
 # myYahooWeather
-功能說明：
-1.擷取Yahoo Weather JSON 的台中天氣資料
-2.提供更新功能
-3.可以刪除TableView欄位
+![screenshot](https://github.com/ghostwolf90/myYahooWeather/blob/master/image/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202016-01-19%2018.53.30.png)
 
-參考資料：
-1. https://github.com/hsiaoplay/YahooWeather
-2. https://github.com/jianyaoang/Yahoo-Weather-Replica
+##功能說明：
+#####1.擷取Yahoo Weather JSON 的台中天氣資料
+#####2.提供更新功能
+#####3.可以刪除TableView欄位
+
+##參考資料：
+#####1. https://github.com/hsiaoplay/YahooWeather
+#####2. https://github.com/jianyaoang/Yahoo-Weather-Replica
 
 ## 使用技術部份
 * [擷取JSON（get JSON）](#get JSON)
